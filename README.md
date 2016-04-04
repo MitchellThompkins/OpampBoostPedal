@@ -1,4 +1,11 @@
-# OpampBoostPedal
-
 ## Description
-This is a low-cost op-amp boost pedal meant for use with guitar [Include cutoff frequencies, gain, and phase shift here]. The form factor is intended to be very small. Included you will find the eagle files for the board, wiring diagrams, finished photos, pspice simulation files, and a bill of materials to estimate the total cost.
+
+This is a low-cost op-amp boost pedal meant for use with guitar. The form factor is intended to be very small. Included you will find the eagle files for the board, wiring diagrams, finished photos, pspice simulation files, and a bill of materials to estimate the total cost. PSpice simulations are also included.
+
+### Current revision of the populated PCB:
+
+<img src="Pictures/PCB_with_Components.png" width="250">
+
+### Finished Pedal:
+
+<img src="Pictures/Unpopulated_and_Populated_PCB.jpeg" width="500">
