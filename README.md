@@ -8,4 +8,4 @@ This is a low-cost op-amp boost pedal meant for use with guitar. The form factor
 
 ### Finished Pedal:
 
-<img src="Pictures/Unpopulated_and_Populated_PCB.jpg" width="500">
+<img src="Pictures/Finished_Pedal.jpg" width="500">
